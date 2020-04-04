@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FinalBattle/static/css/main.5f0be0ec.chunk.css",
+    "main.js": "/FinalBattle/static/js/main.d360baf4.chunk.js",
+    "main.js.map": "/FinalBattle/static/js/main.d360baf4.chunk.js.map",
+    "runtime-main.js": "/FinalBattle/static/js/runtime-main.cbee7d91.js",
+    "runtime-main.js.map": "/FinalBattle/static/js/runtime-main.cbee7d91.js.map",
+    "static/css/2.07548e1c.chunk.css": "/FinalBattle/static/css/2.07548e1c.chunk.css",
+    "static/js/2.8392b1c3.chunk.js": "/FinalBattle/static/js/2.8392b1c3.chunk.js",
+    "static/js/2.8392b1c3.chunk.js.map": "/FinalBattle/static/js/2.8392b1c3.chunk.js.map",
+    "index.html": "/FinalBattle/index.html",
+    "precache-manifest.dbaf224a9774f34356842005054af15f.js": "/FinalBattle/precache-manifest.dbaf224a9774f34356842005054af15f.js",
+    "service-worker.js": "/FinalBattle/service-worker.js",
+    "static/css/2.07548e1c.chunk.css.map": "/FinalBattle/static/css/2.07548e1c.chunk.css.map",
+    "static/css/main.5f0be0ec.chunk.css.map": "/FinalBattle/static/css/main.5f0be0ec.chunk.css.map",
+    "static/js/2.8392b1c3.chunk.js.LICENSE.txt": "/FinalBattle/static/js/2.8392b1c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbee7d91.js",
+    "static/css/2.07548e1c.chunk.css",
+    "static/js/2.8392b1c3.chunk.js",
+    "static/css/main.5f0be0ec.chunk.css",
+    "static/js/main.d360baf4.chunk.js"
+  ]
+}
