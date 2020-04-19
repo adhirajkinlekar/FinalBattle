@@ -1,1 +1,1 @@
-My customized version of the Robofriends app. It generates users name card as well return  different sets of cards based on the name that is entered.There is also a hidden programming joke that you have to find. 
+My customized version of the Robofriends app. It generates users name card as well returns different sets of cards based on the name that is entered.There is also a hidden programming joke that you have to find. 
